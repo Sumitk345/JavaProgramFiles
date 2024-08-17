@@ -1,0 +1,11 @@
+Today's Session Main points:
+In Java, all features, attributes, methods, etc. are linked to classes and objects. We cannot write a Java program just with the main function without declaring a class the way we can do in C++.
+An object is an entity that has a state and exhibits behavior.
+Constructors are special methods that are generally used to initialize an instance of a class. Constructors do not have a return type, they have the same name as the class, and may or may not contain parameters.
+Java provides a class named “Class” which keeps all the information about classes and objects in the system. We can use the forName () method of the ‘Class’ class to create an object.
+Object class in Java provides a clone () method that returns the clone or copy of the object passed as an argument to the clone () method.
+Java provides a technique called deserialization wherein we read an object from a saved file. 
+A class is a template used for the creation of objects. An object is an instance of a class. While a class is a logical entity, an object is a physical entity. Each object has a state in which all the member variables have specific values. The class does not have a state.
+The Object is created using new, forName ().newInstance () , clone() methods.
+A class can have any number of instances or objects.
+Every object has a copy of member fields and their associated values.

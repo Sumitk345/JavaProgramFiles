@@ -1,0 +1,31 @@
+-> Java is Object Oriented Programming Language
+-> Invented in the year 1993 by James Gosling 
+-> Java follow Object Oriented approach to code programs
+
+
+1. class and object
+	-> "class" is keyword used to group together/bind variables, functions, constants
+	-> "object" is reference to the instance of a class
+	
+	examples: Product, Student, Book etc  are classes
+	          p1, s1, b1 are the examples of objects for respective classes
+	          
+	
+2. encapsulation
+	"Encapsulation" is a process of hiding and securing class variables & functions to the
+	outside class scope
+	
+	public		: accessible to all
+	private		: accessible for only same class
+	protected	: accessible for only same class and child class
+	
+	
+3. inheritance
+4. polymorphism and abstraction
+
+
+
+Questions
+1. Differentiate in 3 points between compilor and interpreter?
+2. What is JDK?
+3. Explain what is Object Oriented Programming and Procedure Oriented Programming?
